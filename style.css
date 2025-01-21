@@ -1,23 +1,22 @@
 .container-general {
     display: grid;
-    grid-template-columns: 30% 70%; /* Ajusta la proporción entre columnas */
-    gap: 20px; /* Espacio entre columnas */
+    grid-template-columns: 30% 70%;
+    gap: 20px;
 }
 
 .columna-izquierda {
-    background-color: #ffcee4; /* Color de fondo para diferenciar */
-    padding: 20px; /* Espaciado interno */
+    background-color: #ffcee4;
+    padding: 20px;
 
 }
 
 .columna-derecha {
-    background-color: #ffffff; /* Color de fondo para diferenciar */
-    padding: 20px; /* Espaciado interno */
+    background-color: #ffffff;
+    padding: 20px;
 }
 
 .nombre {
     color: #622842;
-    align-items: center;
 }
 
 .nombre2 {
@@ -25,8 +24,7 @@
 }
 
 .titulos{
-    justify-content: center;
-    align-content: center;
+
 }
 p{
     color: #622842;
